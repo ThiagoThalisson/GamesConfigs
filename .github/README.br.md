@@ -24,7 +24,6 @@ Faça o download dos arquivos pressionando o *botão verde* `Code` e *baixe o ZI
 <p><i>Opções De Inicialização</i></p>
 <p><code>-dxlevel 98 -fullscreen -w [Largura Da Sua Resolução] -h [Altura Da Sua Resolução] -console -novid -high</code></p>
 
-
 <br>
 
 <ol>
@@ -33,6 +32,7 @@ Faça o download dos arquivos pressionando o *botão verde* `Code` e *baixe o ZI
             <li>Coloque as pastas <code>cfg & custom</code> nesse repositório na pasta de instalação do TF2 de acordo com a instrução abaixo.</li>
             <ul>
                 <li><code>steamapps > common > Team Fortress 2 > tf</code></li>
+                <li>Veja com atenção! Não esqueça de extrair o ZIP extract the <code>budhud-master</code> dentro da pasta <code>custom</code>.</li>
             </ul>
         </ul>
     </li>

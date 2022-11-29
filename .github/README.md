@@ -33,6 +33,7 @@ Download all files by pressing the *green button* `Code` and *download the ZIP*.
             <li>Place the <code>cfg & custom</code> folders inside this repository into the folder inside your TF2 installation according to the instruction below.</li>
             <ul>
                 <li><code>steamapps > common > Team Fortress 2 > tf</code></li>
+                <li>Listen carefully! Don't forget to extract the <code>budhud-master</code> ZIP inside the <code>custom </code> folder.</li>
             </ul>
         </ul>
     </li>
