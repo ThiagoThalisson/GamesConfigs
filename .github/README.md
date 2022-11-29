@@ -1,6 +1,8 @@
 # GamesConfigs
 🎮 Configurations to some VALVe games that i play.
 
+*Read in other languages: [Português](README.br.md).*
+
 # How To Install The Files
 ## For TF2
  
@@ -28,7 +30,7 @@
 <ol>
     <li>Go to your Steam folder and navigate the following path, folder after folder:
         <ul>
-            <li>Place the <code>autoexec.cfg</code> inside this repository into the folder inside your userdata according to the instruction below.</li>
+            <li>Place the <code>autoexec.cfg</code> inside this repository into the folder corresponding to the instructions below.</li>
             <ul>
                 <li><code>userdata > [Steam ID] > 730 > local > cfg</code></li>
             </ul>
