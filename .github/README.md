@@ -13,7 +13,7 @@
 <ol>
     <li>Go to your Steam folder and navigate the following path, folder after folder:
         <ul>
-            <li>Place the <code>cfg & custom</code> inside this repository into the folder inside your TF2 installation according to the instruction below.</li>
+            <li>Place the <code>cfg & custom</code> folders inside this repository into the folder inside your TF2 installation according to the instruction below.</li>
             <ul>
                 <li><code>steamapps > common > Team Fortress 2 > tf</code></li>
             </ul>
@@ -32,7 +32,7 @@
             <ul>
                 <li><code>userdata > [Steam ID] > 730 > local > cfg</code></li>
             </ul>
-             <li>Now, to both files <code>bhop.cfg & prac.cfg</code> inside this repository into the folder inside your CSGO installation according to the instruction below.</li>
+             <li>Now, to both files <code>bhop.cfg & prac.cfg</code> put them into the folder inside your CSGO installation according to the instruction below.</li>
             <ul>
                 <li><code>steamapps > common > CSGO > csgo > cfg</code></li>
             </ul>
