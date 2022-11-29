@@ -28,31 +28,28 @@ Faça o download dos arquivos pressionando o *botão verde* `Code` e *baixe o ZI
 
 <ol>
     <li>Vá para a sua pasta de instalação da Steam e navegue até o seguinte caminho, pasta após pasta:
+    <li>Coloque as pastas <code>cfg & custom</code> nesse repositório na pasta de instalação do TF2 de acordo com a instrução abaixo.
         <ul>
-            <li>Coloque as pastas <code>cfg & custom</code> nesse repositório na pasta de instalação do TF2 de acordo com a instrução abaixo.</li>
-            <ul>
-                <li><code>steamapps > common > Team Fortress 2 > tf</code></li>
-                <li>Veja com atenção! Não esqueça de extrair o ZIP extract the <code>budhud-master</code> dentro da pasta <code>custom</code>.</li>
-            </ul>
+            <li><code>steamapps > common > Team Fortress 2 > tf</code></li>
         </ul>
     </li>
+    <li>Veja com atenção! Não esqueça de extrair o ZIP extract the <code>budhud-master</code> dentro da pasta <code>custom</code>.</li>
 </ol>
 
 <h2 id="CSGO">Para O CSGO</h2> 
 <p><i>Opções De Inicialização</i></p>
-<p><code>-novid -freq 75 -tickrate 64 -fullscreen -w 1920 -h 1080 +exec autoexec.cfg</code></p>
+<p><code>-novid -freq 75 -tickrate 64 -fullscreen -w [Largura Da Sua Resolução] -h [Altura Da Sua Resolução] +exec autoexec.cfg</code></p>
 
 <ol>
     <li>Vá para a sua pasta de instalação da Steam e navegue até o seguinte caminho, pasta após pasta:
+    <li>Coloque o arquivo <code>autoexec.cfg</code> que está neste repositório dentro da pasta correspondente as instruções abaixo.
         <ul>
-            <li>Coloque o arquivo <code>autoexec.cfg</code> que está neste repositório dentro da pasta correspondente as instruções abaixo.</li>
-            <ul>
-                <li><code>userdata > [Steam ID] > 730 > local > cfg</code></li>
-            </ul>
-             <li>Agora, para ambos os arquivos <code>bhop.cfg & prac.cfg</code> coloque-os dentro da pasta dentro das instalação do CSGO e siga as intruções abaixo.</li>
-            <ul>
-                <li><code>steamapps > common > CSGO > csgo > cfg</code></li>
-            </ul>
+            <li><code>userdata > [Steam ID] > 730 > local > cfg</code></li>
+        </ul>
+    </li>
+    <li>Agora, para ambos os arquivos <code>bhop.cfg & prac.cfg</code> coloque-os dentro da pasta dentro das instalação do CSGO e siga as intruções abaixo.
+        <ul>
+            <li><code>steamapps > common > CSGO > csgo > cfg</code></li>
         </ul>
     </li>
 </ol>

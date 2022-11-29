@@ -28,15 +28,13 @@ Download all files by pressing the *green button* `Code` and *download the ZIP*.
 <br>
 
 <ol>
-    <li>Go to your Steam folder and navigate the following path, folder after folder:
-        <ul>
-            <li>Place the <code>cfg & custom</code> folders inside this repository into the folder inside your TF2 installation according to the instruction below.</li>
-            <ul>
-                <li><code>steamapps > common > Team Fortress 2 > tf</code></li>
-                <li>Listen carefully! Don't forget to extract the <code>budhud-master</code> ZIP inside the <code>custom </code> folder.</li>
-            </ul>
+    <li>Go to your Steam folder and navigate the following path, folder after folder: </li>
+    <li>Place the <code>cfg & custom</code> folders inside this repository into the folder inside your TF2 installation according to the instruction below.
+        <ul> 
+            <li><code>steamapps > common > Team Fortress 2 > tf</code></li>
         </ul>
     </li>
+    <li>Listen carefully! Don't forget to extract the <code>budhud-master</code> ZIP inside the <code>custom</code> folder.</li>
 </ol>
 
 <h2 id="CSGO">For CSGO</h2> 
@@ -45,17 +43,16 @@ Download all files by pressing the *green button* `Code` and *download the ZIP*.
 
 <ol>
     <li>Go to your Steam folder and navigate the following path, folder after folder:
+    <li>Place the <code>autoexec.cfg</code> inside this repository into the folder corresponding to the instructions below.
         <ul>
-            <li>Place the <code>autoexec.cfg</code> inside this repository into the folder corresponding to the instructions below.</li>
-            <ul>
-                <li><code>userdata > [Steam ID] > 730 > local > cfg</code></li>
-            </ul>
-             <li>Now, to both files <code>bhop.cfg & prac.cfg</code> put them into the folder inside your CSGO installation according to the instruction below.</li>
-            <ul>
-                <li><code>steamapps > common > CSGO > csgo > cfg</code></li>
-            </ul>
+            <li><code>userdata > [Steam ID] > 730 > local > cfg</code></li>
+        </ul>
+    </li>
+    <li>Now, to both files <code>bhop.cfg & prac.cfg</code> put them into the folder inside your CSGO installation according to the instruction below.
+        <ul>
+            <li><code>steamapps > common > CSGO > csgo > cfg</code></li>
         </ul>
     </li>
 </ol>
 
-<h2 id="GMOD"></h2>
+<h2 id="GMOD">For GMOD</h2>
