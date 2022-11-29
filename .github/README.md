@@ -8,7 +8,7 @@ Download all files by pressing the *green button* `Code` and *download the ZIP*.
 <h1>Table Of Contents</h1>
 <ul> 
   <li>
-    <a href="#HowToInstallFiles">How To Install The Files</a>
+    <a href="#HowToApplyTheFiles">How To Apply The Configuration Files</a>
     <ul> 
       <li><a href="#CSGO">For CSGO</a></li>
       <li><a href="#TF2">For TF2</a></li>
@@ -19,7 +19,7 @@ Download all files by pressing the *green button* `Code` and *download the ZIP*.
 
 <br>
 
-<h1 id="HowToInstallFiles">How To Install The Files</h1> 
+<h1 id="HowToApplyTheFiles">How To Apply The Configuration Files</h1> 
 
 <h2 id="TF2">For TF2</h2>
 <p><i>Startup Options</i></p>
