@@ -34,7 +34,7 @@
             </ul>
              <li>Now, to both files <code>bhop.cfg & prac.cfg</code> inside this repository into the folder inside your CSGO installation according to the instruction below.</li>
             <ul>
-                <li><code>steamapps > Common > CSGO > csgo > cfg</code></li>
+                <li><code>steamapps > common > CSGO > csgo > cfg</code></li>
             </ul>
         </ul>
     </li>
