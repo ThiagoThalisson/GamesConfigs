@@ -1,7 +1,7 @@
 # GamesConfigs
 🎮 Configurações de alguns jogos que jogo da VALVe.
 
-*Leia em outras línguas: [English](README.md).*
+*Leia em outra língua: [English](README.md).*
 
 # Como Utilizar Os Arquivos
 ## Para O TF2

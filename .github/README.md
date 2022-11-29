@@ -1,7 +1,7 @@
 # GamesConfigs
 🎮 Configurations to some VALVe games that i play.
 
-*Read in other languages: [Português](README.br.md).*
+*Read in another language: [Português](README.br.md).*
 
 # How To Install The Files
 ## For TF2
