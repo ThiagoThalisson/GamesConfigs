@@ -3,12 +3,27 @@
 
 *Read in another language: [Português](README.br.md).*
 
-# How To Install The Files
-## For TF2
- 
-<p><i>Startup Options</i></p>
-<p><code>-dxlevel 98 -fullscreen -w 1920 -h 1080 -console -novid -high</code></p>
+Download all files by pressing the *green button* `Code` and *download the ZIP*.
 
+<h1>Table Of Contents</h1>
+<ul> 
+  <li>
+    <a href="#HowToInstallFiles">How To Install The Files</a>
+    <ul> 
+      <li><a href="#CSGO">For CSGO</a></li>
+      <li><a href="#TF2">For TF2</a></li>
+      <li><a href="#GMOD">For GMOD</a></li>
+    </ul>  
+  </li>
+</ul>
+
+<br>
+
+<h1 id="HowToInstallFiles">How To Install The Files</h1> 
+
+<h2 id="TF2">For TF2</h2>
+<p><i>Startup Options</i></p>
+<p><code>-dxlevel 98 -fullscreen -w [Your Preferred Width] -h [Your Preferred Height] -console -novid -high</code></p>
 
 <br>
 
@@ -23,7 +38,7 @@
     </li>
 </ol>
 
-## For CSGO 
+<h2 id="CSGO">For CSGO</h2> 
 <p><i>Startup Options</i></p>
 <p><code>-novid -freq 75 -tickrate 64 -fullscreen -w 1920 -h 1080 +exec autoexec.cfg</code></p>
 
@@ -41,3 +56,5 @@
         </ul>
     </li>
 </ol>
+
+<h2 id="GMOD"></h2>

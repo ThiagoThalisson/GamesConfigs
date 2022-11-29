@@ -3,11 +3,26 @@
 
 *Leia em outra língua: [English](README.md).*
 
-# Como Utilizar Os Arquivos
-## Para O TF2
+Faça o download dos arquivos pressionando o *botão verde* `Code` e *baixe o ZIP*.
+
+<ul> 
+  <li>
+    <a href="#ComoAplicarOsArquivos">Como Aplicar Os Arquivos</a>
+    <ul> 
+      <li><a href="#TF2">Para TF2</a></li>
+      <li><a href="#CSGO">Para CSGO</a></li>
+      <li><a href="#GMOD">Para GMOD</a></li>
+    </ul>  
+  </li>
+</ul>
+
+<br>
+
+<h1 id="ComoAplicarOsArquivos">Como Aplicar Os Arquivos</h1>
+<h2 id="TF2">Para O TF2</h2>
  
 <p><i>Opções De Inicialização</i></p>
-<p><code>-dxlevel 98 -fullscreen -w 1920 -h 1080 -console -novid -high</code></p>
+<p><code>-dxlevel 98 -fullscreen -w [Largura Da Sua Resolução] -h [Altura Da Sua Resolução] -console -novid -high</code></p>
 
 
 <br>
@@ -23,7 +38,7 @@
     </li>
 </ol>
 
-## Para O CSGO 
+<h2 id="CSGO">Para O CSGO</h2> 
 <p><i>Opções De Inicialização</i></p>
 <p><code>-novid -freq 75 -tickrate 64 -fullscreen -w 1920 -h 1080 +exec autoexec.cfg</code></p>
 
