@@ -15,7 +15,7 @@
 <ol>
     <li>Vá para a sua pasta de instalação da Steam e navegue até o seguinte caminho, pasta após pasta:
         <ul>
-            <li>Coloque as pastas<code>cfg & custom</code> nesse repositório na pasta de instalação do TF2 de acordo com a instrução abaixo.</li>
+            <li>Coloque as pastas <code>cfg & custom</code> nesse repositório na pasta de instalação do TF2 de acordo com a instrução abaixo.</li>
             <ul>
                 <li><code>steamapps > common > Team Fortress 2 > tf</code></li>
             </ul>
