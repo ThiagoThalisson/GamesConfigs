@@ -56,3 +56,14 @@ Download all files by pressing the *green button* `Code` and *download the ZIP*.
 </ol>
 
 <h2 id="GMOD">For GMOD</h2>
+<p><i>+exec autoexec.cfg</i></p>
+
+<ol> 
+    <li>Go to your Steam folder and navigate the following path, folder after folder:
+        <li>Place the <code>autoexec.cfg</code> inside this repository into the folder corresponding to the instructions below.
+            <ul>
+                <li>steamapps > GarrysMod > garrysmod > cfg</li>
+            </ul>
+        </li>
+    </li>
+</ol>
