@@ -53,3 +53,16 @@ Faça o download dos arquivos pressionando o *botão verde* `Code` e *baixe o ZI
         </ul>
     </li>
 </ol>
+
+<h2 id="GMOD">Para O GMOD</h2>
+<p><i>+exec autoexec.cfg</i></p>
+
+<ol>
+    <li>Vá para a sua pasta de instalação da Steam e navegue até o seguinte caminho, pasta após pasta:
+        <li>Coloque o arquivo <code>autoexec.cfg</code> que está neste repositório dentro da pasta correspondente as instruções abaixo.
+            <ul>
+                <li>steamapps > GarrysMod > garrysmod > cfg</li>
+            </ul>
+        </li>
+    </li>
+</ol>
